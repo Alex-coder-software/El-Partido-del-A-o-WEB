@@ -4,6 +4,8 @@
 
 Este proyecto ficticio representa una final de la Champions League entre mis dos equipos de fútbol favoritos: Alavés y Eibar. Es un proyecto de prueba tras el curso de [MoureDev](https://www.youtube.com/playlist?list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_) y una introducción al framework Reflex. Aunque solo estoy empezando a programar con Reflex, he intentado seguir buenas prácticas de desarrollo web.
 
+Visita [https://elpartido.vercel.app/](https://elpartido.vercel.app/)
+
 ## Características
 
 - **Todo el código de la ficticia web "El Partido del Año"**: Representa una final de la Champions League.
