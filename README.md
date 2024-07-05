@@ -14,15 +14,15 @@ Este proyecto ficticio representa una final de la Champions League entre mis dos
 ## Estructura del Proyecto
 
 - **el_partido_del_amo**: Código fuente principal.
---- **el_partido_del_amo.py**: Archivo principal del sitio web.
----| **constants.py**: Constantes utilizadas en el sitio.
----| **styles**: Directorio de estilos (CSS, colores y fuentes).
----| **views**: Directorio de vistas (secciones gráficas).
----| **assets**: Recursos gráficos y utilidades JavaScript (cuenta atrás).
----| **rxconfig.py**: Configuración principal del proyecto (por defecto).
----| **requirements.txt**: Dependencias del proyecto para su ejecución.
----| **build.sh**: Script de generación estática de la web para producción.
----| **[generado] public**: Empaquetado estático del proyecto que se despliega en producción (HTML, CSS, JS e imágenes).
+- **el_partido_del_amo.py**: Archivo principal del sitio web.
+- **constants.py**: Constantes utilizadas en el sitio.
+- **styles**: Directorio de estilos (CSS, colores y fuentes).
+- **views**: Directorio de vistas (secciones gráficas).
+- **assets**: Recursos gráficos y utilidades JavaScript (cuenta atrás).
+- **rxconfig.py**: Configuración principal del proyecto (por defecto).
+- **requirements.txt**: Dependencias del proyecto para su ejecución.
+- **build.sh**: Script de generación estática de la web para producción.
+- **[generado] public**: Empaquetado estático del proyecto que se despliega en producción (HTML, CSS, JS e imágenes).
 
 ## Uso
 
